@@ -7,3 +7,6 @@
 #Print the answer.
  
 #Print the number.
+number=int(23)
+b=number%2
+print(b)
