@@ -3,7 +3,7 @@
 #Find the reverse of the number and assign it to a variable called 'answer'.
 
 #Print the value of the 'answer'
-number=(12)
+number=(52)
 b=str(number%10)
 c=str(number//10)
 answer=(b+c)
