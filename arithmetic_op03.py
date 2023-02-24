@@ -3,8 +3,9 @@
 #Find the reverse of the number and assign it to a variable called 'answer'.
 
 #Print the value of the 'answer'
-number=21
+number=(12)
 b=str(number%10)
 c=str(number//10)
-print(b+c)
+answer=(b+c)
+print(answer)
  
